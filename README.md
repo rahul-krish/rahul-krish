@@ -1,7 +1,7 @@
-- 👋 I’m @rahul-krish. I am a app developer during the day and a blockchain enthusiast by the night
-- 👀 Mobile app development using ionic/angular and blockchain technologies
-- 🌱 Flutter and Web 3.0
-- 💞️ Looking to collaborate on projects that can make the world a better place
+- 👋 I’m @rahul-krish.
+- 👀 Mobile app developer (hybrid) using ionic/angular
+- 🌱 MEAN stack development
+- 💞️ Following Web 3.0
 - 📫 rahul.devspace@gmail.com
 
 <!---
